@@ -1,2 +1,12 @@
-CMD + <key => Navigate Back
 
+-- Overridden
+
+Navigate Back
+ Default    = CMD [
+ Overridden = CMD <Key    
+
+Navigate Forward
+ Default    = CMD ]
+ Overridden = CMD >Key    
+
+ 
