@@ -1,2 +1,2 @@
-CMD Backspace => Navigate Back
+CMD + <key => Navigate Back
 
